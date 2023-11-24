@@ -1,27 +1,9 @@
 
-<h1 align="center">Town of Host: Enhanced</h1>
+<h1 align="center">(wip name lmao)</h1>
 
 <br>
-
-<img align="left" alt="Cover" src="Resources/Background/TOHE-Background-Old.jpg" width="50%" height="300" /> 
 
 <p align="right">
-  
-> ### Regarding this mod
->
-> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are the property of Innersloth LLC.
-<br>
-
-</p>
-<p align="center">
-
-<center>
-<a href="https://tohre.dev/" target="_blank"><img src="https://img.shields.io/badge/Website%20-%231DA1F2.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white&color=3aa675"/></a>
-<a href="https://discord.gg/tohe" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>
-<a href="https://github.com/0xDrMoe/TownofHost-Enhanced/releases/latest" target="_blank"><img src="https://img.shields.io/badge/Latest Version%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-</center>
-
-
 
 </p>
 
@@ -29,19 +11,11 @@
 
 <br>
 
-**Credit to these mods and their developers for the code and help:**
-### :star: [TOHRE](https://github.com/Loonie-Toons/) 
-> 
-> - TOH: Enhanced was forked from TOH-RE
->
-### :star: [TOHE](https://github.com/KARPED1EM/TownOfHostEdited) :
-> 
-> - TOHRE was forked from TOHE
-> 
-### :star: [TOH](https://github.com/tukasa0001/TownOfHost) :
-> 
-> - Our repo is based initially on TOH
-> 
+**Credit to these mods and their developers for the code and help:** <br>
+
+### **__Fork Timeline:__**
+### [TOH](https://github.com/tukasa0001/TownOfHost) -> [TONX](https://github.com/KARPED1EM/TownOfNext) -> [TOH=RE](https://github.com/Loonie-Toons/Re-Edited) -> [TOH:E](https://github.com/0xDrMoe/TownofHost-Enhanced) -> [This Mod.](https://github.com/ThetaHalo/nothing-to-see-here)
+
 ### :star: [TOHY](https://github.com/Yumenopai/TownOfHost_Y) :
 > 
 > - Many role ideas
@@ -69,7 +43,7 @@
 > 
 > - Reference: Modify settings menu
 > 
-### :star: [TOH+](https://github.com/SkullCreeper/TownOfHostPlus)
+### :star: [TOH+](https://github.com/Loonie-Toons/TownOfHostPlus)
 >
 > - Provided roles: Shapeshifter, Engineer, Scientist, Marshall, Poisoner, Necroview, Sidekick
 > - Bait and Beartrap as add-ons
@@ -87,3 +61,8 @@
 ### :star: [Stellar Roles](https://github.com/Mr-Fluuff/StellarRolesAU)
 >
 > - Provided role: ParityCop (Inspector)
+
+> ## __Disclaimer__:
+>
+> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are the property of Innersloth LLC.
+<br>

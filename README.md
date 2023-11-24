@@ -1,20 +1,15 @@
 
-<h1 align="center">(wip name lmao)</h1>
 
-<br>
+<img align="left" alt="Cover" src="Resources/Background/Violet-Logo.png" width="20%"  />  <h1 align="center">Violet</h1>
 
-<p align="right">
+> ### __an Among Us mod, based on [Town of Host: Enhanced.](https://github.com/0xDrMoe/TownofHost-Enhanced)__ <br>
 
-</p>
+> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are the property of Innersloth LLC. <br>
 
 ---
-
-<br>
+### [TOH](https://github.com/tukasa0001/TownOfHost) -> [TONX](https://github.com/KARPED1EM/TownOfNext) -> [TOH-RE](https://github.com/Loonie-Toons/Re-Edited) -> [TOH:E](https://github.com/0xDrMoe/TownofHost-Enhanced) -> [This Mod.](https://github.com/ThetaHalo/Violet)
 
 **Credit to these mods and their developers for the code and help:** <br>
-
-### **__Fork Timeline:__**
-### [TOH](https://github.com/tukasa0001/TownOfHost) -> [TONX](https://github.com/KARPED1EM/TownOfNext) -> [TOH=RE](https://github.com/Loonie-Toons/Re-Edited) -> [TOH:E](https://github.com/0xDrMoe/TownofHost-Enhanced) -> [This Mod.](https://github.com/ThetaHalo/nothing-to-see-here)
 
 ### :star: [TOHY](https://github.com/Yumenopai/TownOfHost_Y) :
 > 
@@ -62,7 +57,5 @@
 >
 > - Provided role: ParityCop (Inspector)
 
-> ## __Disclaimer__:
->
-> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are the property of Innersloth LLC.
+> 
 <br>

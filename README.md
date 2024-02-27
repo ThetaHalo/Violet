@@ -8,6 +8,7 @@
 <br>
 
 --- 
+# Project is currently on hold. Will continue Eventually, thank you!
 
 ### [TOH](https://github.com/tukasa0001/TownOfHost) -> [TONX](https://github.com/KARPED1EM/TownOfNext) -> [TOH-RE](https://github.com/Loonie-Toons/Re-Edited) -> [TOH:E](https://github.com/0xDrMoe/TownofHost-Enhanced) -> [This Mod.](https://github.com/ThetaHalo/Violet)
 

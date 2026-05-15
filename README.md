@@ -32,8 +32,8 @@
 
 **Mods**
 > [Lotus-AU/LotusContinued](https://github.com/Lotus-AU/LotusContinued): Various code snippets & code references, also the only reason this addon exists. <br>
-> [Gurge44/EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles): Idea for Car Role,
-> [Tommy-XL/Unlock-dlekS-ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - Code for DleksPatch
+> [Gurge44/EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles): Idea for Car Role<br>
+> [Tommy-XL/Unlock-dlekS-ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - Code for DleksPatch<br>
 > [AU-Avengers/TOU-Mira](https://github.com/AU-Avengers/TOU-Mira) & All-Of-Us-Mods/MiraAPI: Code reference for features like GUI Scale. <br>
 > [D1GQ/BetterAmongUs](https://github.com/D1GQ/BetterAmongUs): Code reference for Command Suggestions. <br>
 > [TownOfNext/TownOfNext](https://github.com/TownOfNext/TownOfNext): Code for ZoomPatch. <br>

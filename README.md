@@ -11,6 +11,8 @@
 ## Additions:
 - An in-game GUI for searching roles.
 - Adds support for **ehT dlekS**, so you can play it in Project: Lotus.
+- "Functional" support for The Fungle (You can play the CTF & ETF Gamemodes, as well as use Random Spawn)
+- "Functional" support for Submerged (Random Spawn support & CTF Support)
 - 8 new modifiers, 4 new roles, and more on the way!
 - Show the result of the previous meeting above the Meeting Table.
 - Various UI Improvements.
@@ -24,13 +26,14 @@
 
 ## Credits:
 **Individuals**
-> ThetaHalo - Developer of Violet. <br>
-> Discussions - Lead Dev of Project: Lotus, also provided code for Drunk Modifier & various pieces of code around the addon. <br>
+> [ThetaHalo](https://github.com/ThetaHalo) - Developer of Violet. <br>
+> [Discussions](https://github.com/discus-sions) - Lead Dev of Project: Lotus, also provided code for Drunk Modifier & various pieces of code around the addon. <br>
 > **Violet's Testers: Silver, Timmay, AnonWorks, Mama BB & Others**
 
 **Mods**
-> Project: Lotus: Various code snippets & code references, also the only reason this addon exists. <br>
-> EHR: Idea for Car Role, code for Dleks Patch (though I modified it.) <br>
-> TOU Mira/Mira API: Code reference for features like GUI Scale. <br>
-> BetterAmongUs: Code reference for Command Suggestions. <br>
-> Town Of Next: Code for ZoomPatch. <br>
+> [Lotus-AU/LotusContinued](https://github.com/Lotus-AU/LotusContinued): Various code snippets & code references, also the only reason this addon exists. <br>
+> [Gurge44/EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles): Idea for Car Role,
+> [Tommy-XL/Unlock-dlekS-ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - Code for DleksPatch
+> [AU-Avengers/TOU-Mira](https://github.com/AU-Avengers/TOU-Mira) & All-Of-Us-Mods/MiraAPI: Code reference for features like GUI Scale. <br>
+> [D1GQ/BetterAmongUs](https://github.com/D1GQ/BetterAmongUs): Code reference for Command Suggestions. <br>
+> [TownOfNext/TownOfNext](https://github.com/TownOfNext/TownOfNext): Code for ZoomPatch. <br>

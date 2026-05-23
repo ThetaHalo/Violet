@@ -49,22 +49,18 @@
 ### Impostors: (2)
 
 **Animator** - <u>Animate/Control other players</u><br>
-The Enderman is a Crewmate which has the ability to teleport to a random spot on the map using the pet button.
+The Animator is an impostor role which can control & impersonate other players in the game.<br>
 
-|    <u>Options</u>   |
-| :-----------------: |
-| Number of Teleports |
-|  Teleport Cooldown  |
+They first need to mark a player in order for that player to become an option, then you can use your Shapeshifter Menu in order to shift into them.. but instead of shifting, you will instead teleport to their current location and control them.
+
+Optionally, you can choose to kill the player once your timer runs out to control them.
+
 
 🪷🪷🪷
 
 **Brewologist** - <u>Brew potions to get random effects!</u><br>
 The Brewologist is an Impostor which can brew potions to give random harmful/annoying effects to players.
 
-|    <u>Options</u>   |
-| :-----------------: |
-| Number of Teleports |
-|  Teleport Cooldown  |
 ---
 ### Crewmates: (2)
 

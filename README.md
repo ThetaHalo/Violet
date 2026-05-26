@@ -28,6 +28,7 @@
 - Private chats for Impostors, Romantics & Jailor/Jailed People. Strategize with your impostor teammates or plead for your life.
 - Option to automatically recreate your lobby upon disconnecting, mainly for auto-hosters.
 - Various new commands for moderation, fun, and miscellaenous things.
+- Various custom buttons for roles (which replace the vanilla buttons).
 
 ---
 
@@ -48,12 +49,19 @@
 ## Roles:
 ### Impostors: (2)
 
-**Animator** - <u>Animate/Control other players</u><br>
-The Animator is an impostor role which can control & impersonate other players in the game.<br>
+**Animator** - <u>Control other players</u><br>
+The Animator is an Impostor role which can control & impersonate other players in the game.
 
-They first need to mark a player in order for that player to become an option, then you can use your Shapeshifter Menu in order to shift into them.. but instead of shifting, you will instead teleport to their current location and control them.
+They first need to mark a player in order for that player to become an option, then you can use your Shapeshifter Menu in order to select them. Once selected, you will teleport to their current location and control them; while controlling another player, you will remain standing at your old position, and will teleport back when the animation duration is over.
 
-Optionally, you can choose to kill the player once your timer runs out to control them.
+Optionally, you can switch between killing normally and marking with the Pet Button. Also optionally, you can choose to kill the player once your timer runs out to control them.
+
+|    <u>Options</u>   |
+| :-----------------: |
+|  Can Kill Normally  |
+|  Kill After Timer   |
+|  Animation Duration |
+|  Animation Cooldown |
 
 
 🪷🪷🪷
@@ -127,9 +135,13 @@ You can then use this item by clicking the Pet Button again.
 
 - Rigged Gun: A gun which will kill you. (:skull:)
 
-|      <u>Options</u>     |
-|  :--------------------: |
-| __View Options Ingame__ |
+|      <u>Options</u>      |
+|  :---------------------: |
+|        Can Vent          |
+|     Starting Points      |
+|       Points Per Kill    |
+|     Modify Item Costs    |
+|      Modify Item Timers  |
 
 ⭐⭐⭐
 
@@ -264,6 +276,7 @@ The Sugar Rush is a modifier which makes you speed throughout the map.
 **Individuals**
 > [ThetaHalo](https://github.com/ThetaHalo) - Developer of Violet. <br>
 > [Discussions](https://github.com/discus-sions) - Lead Dev of Project: Lotus, also provided code for Drunk Modifier & various pieces of code around the addon. <br>
+> Piggy B - Various art assets (which were included in Lotus but were reused in Violet) 
 > **Violet's Testers: Silver, Timmay, AnonWorks, Mama BB & Others**
 
 **Mods**

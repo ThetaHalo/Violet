@@ -210,7 +210,7 @@ The Eavesdropper is a modifier which is able to listen to all private chats in t
 🔪🔪🔪
 
 **Fragile** - <u>You are a fragile person, you break easily</u><br>
-The Enderman is a Crewmate which has the ability to teleport to a random spot on the map using the pet button.
+As Fragile, you get killed when someone attempts to interact with you.
 
 |    <u>Options</u>             |
 | :-----------------:           |
@@ -276,7 +276,7 @@ The Sugar Rush is a modifier which makes you speed throughout the map.
 **Individuals**
 > [ThetaHalo](https://github.com/ThetaHalo) - Developer of Violet. <br>
 > [Discussions](https://github.com/discus-sions) - Lead Dev of Project: Lotus, also provided code for Drunk Modifier & various pieces of code around the addon. <br>
-> Piggy B - Various art assets (which were included in Lotus but were reused in Violet) 
+> Piggy B - Various art assets (which were included in Lotus but were reused in Violet) <br>
 > **Violet's Testers: Silver, Timmay, AnonWorks, Mama BB & Others**
 
 **Mods**

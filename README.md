@@ -35,18 +35,23 @@
 ---
 
 ## Commands
-::note
-Some commands are required to use the /cmd prefix, while others can use either / or /cmd.
-::
 
-- /endmeeting     [Host-Only | Ends the currently active meeting. ]
-- /impostorchat   [In-Game Only | Send a message to your impostor partners. ]
-- /jailorchat     [In-Game Only | If Jailor or Jailed, talk to the Jailed/Jailor. ]
-- /romanticschat  [In-Game Only | Talk to your romantic partner as a Romantic (or romanced player) ]
-- /kill           [Moderator Only | Kill/Execute a player ]
-- /rtp            [In-Game Only | Teleport to a random room on the map (when dead.) ]
-- /rr             [Play a game of Russian Roulette, if you lose then you will be kicked. (Host can disable this by doing /cmd rr toggle)]
-- /vote           [In-Game Only | Vote a player in the current meeting (meant for when using Crowded.) ]
+:::note
+> Some commands are required to use the /cmd prefix, while others can use either / or /cmd.
+:::
+
+|  Prefix  | Command Name  |      Flags       | Description                                                                                               |
+|:--------:|:--------------|:----------------:|-----------------------------------------------------------------------------------------------------------| 
+|   /cmd   | archangelchat |  In-Game, Host   | Talk to your Archangel partner as an Archangel                                                            |
+| / & /cmd | endmeeting    | In-Meeting, Host | Ends the currently active meeting.                                                                        |
+|   /cmd   | impostorchat  |   In-Game Only   | Send a message to your impostor partners.                                                                 |
+|   /cmd   | jailorchat    |   In-Game Only   | If Jailor or Jailed, talk to the Jailed/Jailor.                                                           |
+|   /cmd   | romanticschat |   In-Game Only   | Talk to your romantic partner as a Romantic (or romanced player)                                          |
+| / & /cmd | kill          |  Moderator Only  | Kill/Execute a player                                                                                     |
+| / & /cmd | rtp           |   In-Game Only   | Teleport to a random room on the map (when dead.)                                                         |
+| / & /cmd | roulette      |   In-Game Only   | Play a game of Russian Roulette, if you lose then you will be kicked. (Host can disable this in settings  | 
+|   /cmd   | vote          |   In-Game Only   | Vote a player in the current meeting (meant for when using Crowded.)                                      |
+|   /cmd   | will          |  In-Game Only    | Write a will, which will be displayed in meeting upon your death. (Host can disable this in settings)     |
 
 ---
 
@@ -68,7 +73,7 @@ Click [here](https://gist.github.com/ThetaHalo/a20611cffbe456ae48ba83882c1b1cc4)
 > [ThetaHalo/LotusDiscordRPC 🕊️](https://github.com/thetahalo/lotusdiscordrpc): Code for the Discord Presence.<br>
 > [ThetaHalo/BetterAutoHostAddon 🕊️](https://github.com/ThetaHalo/BetterAutoHostAddon): Code for auto-remaking lobbies. <br>
 > [CitrionDragon/CrowdedAddon](https://github.com/citriondragon/crowdedaddon): Code for the Crowded Patch (though modified).<br>
-> [Gurge44/EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles): Idea for Car Role<br>
+> [Gurge44/EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles): Idea for Car Role & Code Reference<br>
 > [Tommy-XL/Unlock-dlekS-ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT): Code for DleksPatch (though modified)<br>
 > [SubmergedAmongUs/Submerged](https://github.com/SubmergedAmongUs/Submerged): Certain code references for adding Submerged Support <br>
 > [AU-Avengers/TOU-Mira](https://github.com/AU-Avengers/TOU-Mira) & All-Of-Us-Mods/MiraAPI: Code reference for features like GUI Scale, Role Tab, and TMP Sprite Assets + Code References for some Harmony Patches<br>

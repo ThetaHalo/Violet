@@ -36,9 +36,7 @@
 
 ## Commands
 
-:::note
 > Some commands are required to use the /cmd prefix, while others can use either / or /cmd.
-:::
 
 |  Prefix  | Command Name  |      Flags       | Description                                                                                               |
 |:--------:|:--------------|:----------------:|-----------------------------------------------------------------------------------------------------------| 
